@@ -1,0 +1,30 @@
+.caja{
+height: 200px;
+width: 200px; 
+border: 1px;
+border-style: solid;
+border-radius: 20px;
+margin: 50px;
+text-align: center;
+padding: 30px;
+position: absolute;
+top: 250px;
+left: 550px;
+bottom: 250px;
+right: 200px;
+text-justify: auto;
+text-shadow: 5px 5px 5px rgb(140, 199, 52),
+             7px 7px 7px rgb(59, 47, 47);
+border-color : darkslategrey;
+border-width: 5px;
+background-color: rgb(83, 224, 175);
+
+
+}
+h1{
+    color:darkgreen;
+
+}
+h3{
+ color:darkolivegreen;
+}

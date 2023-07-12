@@ -1,0 +1,27 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+@font-face {
+    font-family:'DancingScript' ;
+    src: url('../fuentes/DancingScript-Bold.ttf') format(truetype);
+}
+
+
+#titulo1{
+    text-shadow: 5px 5px 5px #aaa;
+    font-family: 'Courier New', Courier, monospace;
+}
+#titulo2{
+    text-shadow: -5px -5px 5px #aaa;
+    font-family: 'Fasthand', cursive;
+}
+#titulo3{
+    text-shadow: 3px 3px 5px #f00,
+                 6px 6px 5px #0f0,
+                 9px 0px 5px #00f;
+    font-family: 'Fasthand', cursive;            
+}
+#titulo4{
+    text-shadow: -5px -5px 5px #aaa;
+    font-family:'DancingScript',cursive;   
+}

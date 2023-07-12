@@ -1,0 +1,29 @@
+#menu ul {
+    list-style-type: none;
+    padding: 0px;
+    width: 200px;
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    
+}
+li{
+
+padding-bottom: 5px;
+}
+
+#menu li a {
+    color: #272323;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px 10px 10px 20px;
+    background-color:darkcyan;
+    border-style: solid;
+    border-radius: 20px;
+}
+#menu ul li a:hover {
+    
+   
+    color: cadetblue;
+ 
+}
